@@ -10,6 +10,7 @@ public class Main {
 		maquina.comprar(1);
 		maquina.comprar(0.5);
 		maquina.comprar(0.25);
+		maquina.comprar(0.20);
 	}
 
 }
